@@ -2,7 +2,7 @@
 
 ## 📋 项目介绍
 
-本项目对比了三种经典机器学习算法在水果图像分类任务上的性能表现，包括**支持向量机 (SVM)**、**K近邻算法 (KNN)** 和**决策树 (Decision Tree)**。
+本项目对比了三种经典机器学习算法在水果图像分类任务上的性能表现，包括**SVM**、**KNN** 和**Decision Tree**。
 
 通过使用 PCA 进行特征降维，我们探究了这些算法在图像分类问题上的优缺点，为实际应用中算法的选择提供参考。
 
@@ -72,12 +72,6 @@ jupyter notebook fruit-classification-pca-svm-knn-decision-tree.ipynb
 - [scikit-learn 官方文档](https://scikit-learn.org/)
 - [PCA 主成分分析](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - [图像分类基础](https://opencv.org/)
-
-## 👤 项目信息
-
-- **作者**: TempleKing
-- **项目类型**: 机器学习研究项目
-- **主要语言**: Python (Jupyter Notebook)
 
 ---
 
