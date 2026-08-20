@@ -74,5 +74,3 @@ jupyter notebook fruit-classification-pca-svm-knn-decision-tree.ipynb
 - [图像分类基础](https://opencv.org/)
 
 ---
-
-欢迎提出问题和建议！如有任何疑问，请提交 Issue 或 Pull Request。
